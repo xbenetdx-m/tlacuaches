@@ -609,6 +609,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-05-10 02:03:25 +0000",
+      "cooked_beef": "2025-05-10 16:24:38 +0000",
       "beef": "2025-05-10 02:55:39 +0000",
       "potato": "2025-05-10 02:51:32 +0000",
       "mutton": "2025-05-10 02:55:20 +0000",
@@ -1495,6 +1496,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-05-10 16:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-10 16:29:38 +0000"
     },
     "done": true
   },
