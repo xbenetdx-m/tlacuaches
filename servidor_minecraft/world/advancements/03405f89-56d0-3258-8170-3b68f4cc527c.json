@@ -516,6 +516,7 @@
       "minecraft:skeleton": "2025-05-10 03:21:52 +0000",
       "minecraft:spider": "2025-05-10 01:59:14 +0000",
       "minecraft:creeper": "2025-05-10 02:21:43 +0000",
+      "minecraft:husk": "2025-05-10 04:01:30 +0000",
       "minecraft:cave_spider": "2025-05-10 03:33:50 +0000",
       "minecraft:zombie": "2025-05-10 02:21:11 +0000",
       "minecraft:drowned": "2025-05-10 02:25:29 +0000"
@@ -1044,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-10 03:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-10 03:37:55 +0000"
@@ -1065,6 +1072,12 @@
   "toughasnails:recipes/food/glow_berry_juice": {
     "criteria": {
       "has_glow_berries": "2025-05-10 03:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-10 03:59:31 +0000"
     },
     "done": true
   },
@@ -1116,6 +1129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-10 03:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-05-10 03:41:00 +0000"
@@ -1137,6 +1156,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-10 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-10 03:59:31 +0000"
     },
     "done": true
   },
@@ -1212,6 +1237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-10 03:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-10 03:33:50 +0000"
@@ -1242,6 +1273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-10 03:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-05-10 03:41:00 +0000"
@@ -1263,6 +1300,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-10 03:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-10 03:59:31 +0000"
     },
     "done": true
   },
@@ -1362,6 +1405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-10 03:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-10 03:37:55 +0000"
@@ -1440,6 +1489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-10 03:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-10 03:33:50 +0000"
@@ -1461,6 +1516,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-10 03:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 03:57:49 +0000"
     },
     "done": true
   },
@@ -1527,6 +1588,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-05-10 03:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-10 03:57:49 +0000"
     },
     "done": true
   },
