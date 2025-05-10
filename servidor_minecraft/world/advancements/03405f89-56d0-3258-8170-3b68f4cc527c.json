@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-10 04:21:10 +0000",
       "minecraft:bamboo_jungle": "2025-05-10 03:42:49 +0000",
       "minecraft:beach": "2025-05-10 02:15:04 +0000",
       "minecraft:sparse_jungle": "2025-05-10 01:47:06 +0000",
@@ -34,6 +35,8 @@
       "minecraft:lush_caves": "2025-05-10 03:36:46 +0000",
       "minecraft:desert": "2025-05-10 01:46:47 +0000",
       "minecraft:jungle": "2025-05-10 03:38:05 +0000",
+      "minecraft:ocean": "2025-05-10 04:20:32 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-10 04:19:42 +0000",
       "minecraft:savanna": "2025-05-10 01:49:07 +0000",
       "minecraft:plains": "2025-05-10 01:46:28 +0000"
     },
@@ -445,6 +448,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-10 02:40:12 +0000",
       "cooked_beef": "2025-05-10 02:03:37 +0000",
+      "porkchop": "2025-05-10 04:15:28 +0000",
       "apple": "2025-05-10 01:50:06 +0000",
       "bread": "2025-05-10 02:12:38 +0000",
       "carrot": "2025-05-10 01:52:35 +0000"
@@ -1216,6 +1220,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-10 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-10 04:05:58 +0000"
     },
     "done": true
   },
